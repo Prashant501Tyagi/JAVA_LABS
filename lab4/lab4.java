@@ -3,10 +3,10 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;  
 
 public class lab4 {
-    static int acc_no = 22122047;
+    static int acc_no = 22122036;
     
-    static String hname = "Siddharth lal deo";
-    static double bal = 76000.00;
+    static String hname = "prashant";
+    static double bal = 6777.00;
     
 
     // static void init(){
